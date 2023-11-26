@@ -16,7 +16,7 @@
 	 	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
 		<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
 		<img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=Macos&logoColor=white" />
-	<br>
+	<br><br>
 	<p>🧱 Frameworks & Library 🧱<p>
 		<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white" />
 		<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
