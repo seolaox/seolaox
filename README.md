@@ -15,7 +15,7 @@
 	 	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
 		<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
 		<img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=Macos&logoColor=white" />
-	<br><br><br>
+	<br><br>
 	<p>🧱 Frameworks & Library 🧱<p>
 		<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white" />
 		<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
@@ -34,7 +34,7 @@
 		<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google%20Colab&logoColor=white"/>
 	<br>
-	<p> Server & Cloud <p>
+	<p> 📡 Server 📡 <p>
 		<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />	
 	<br><br>
 	<p> 🏢 Collaboration Tools 🏢<p>
