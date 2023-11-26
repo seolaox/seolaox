@@ -9,13 +9,13 @@
 		<img src="https://img.shields.io/badge/Java-C01818?style=flat&logo=coffeescript&logoColor=white" />
 		<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white" />
 		<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" />
-	 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
+<!-- 	 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" /> -->
 		<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<br>
 		<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
 		<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 		<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
-	 	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
+<!-- 	 	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" /> -->
 	<br><br>
 	<p>🧱 Frameworks & Library 🧱<p>
 		<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
@@ -23,7 +23,7 @@
 		<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 		<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=FLask&logoColor=white" />
         <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
-		<img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=twitter&logoColor=white" />
+<!-- 		<img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=twitter&logoColor=white" /> -->
 	<br>
 	<p>📚 Database 📚<p>
 		<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=Mysql&logoColor=white" />
