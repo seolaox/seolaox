@@ -3,6 +3,7 @@
 </div>
 <div align=center>
 	<h3>🧰 Tech Stack 🧰</h3>
+<br>
 </div>
 <div align="center">
 	<p>💬 Languages 💬</p>
@@ -15,28 +16,28 @@
 	 	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
 		<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
 		<img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=Macos&logoColor=white" />
-	<br><br>
+	<br>
 	<p>🧱 Frameworks & Library 🧱<p>
 		<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white" />
 		<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
 		<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
 		<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=FLask&logoColor=white" />
-	<br><br>
+	<br>
 	<p>📚 Database 📚<p>
 		<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=Mysql&logoColor=white" />
 		<img src="https://img.shields.io/badge/Sqlite-003B57?style=flat&logo=Sqlite&logoColor=white" />
 		<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
-	<br><br>
+	<br>
 	<p> 🧑‍💻 IDE 🧑‍💻<p>
 		<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 		<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 		<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google%20Colab&logoColor=white"/>
-	<br><br>
+	<br>
 	<p> 📡 Server 📡 <p>
 		<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />	
-	<br><br>
+	<br>
 	<p> 🏢 Collaboration Tools 🏢<p>
 	  	<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/>
