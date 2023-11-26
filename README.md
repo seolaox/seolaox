@@ -52,8 +52,8 @@
 <!-- 	<h3>📱 Contact & Portfolio 📱</h3> -->
 </div>
 <div align=center>
-	<a href="mailto:seolaox@gmail.com">
-		<img src="https://img.shields.io/badge/Mail-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
+<!-- 	<a href="mailto:seolaox@gmail.com"> -->
+<!-- 		<img src="https://img.shields.io/badge/Mail-4285F4?style=for-the-badge&logo=Google&logoColor=white" /> -->
 	</a>
 <!-- 	<a href="https://ethan-oh.notion.site/dfc9c2edcc1345cb90d11d4261bd0a79?pvs=4"> -->
 <!-- 		<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" /> -->
