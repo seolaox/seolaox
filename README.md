@@ -47,7 +47,6 @@
 		<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </div>
 
-<div class="cursor-move sc-bwzfXH kvbLWh" width="350.20001220703125" height="59.28000259399414" style="width: 350.2px; height: 59.28px;"></div>
 <br>
 <div align=center>
 	<!--Hits 설정 -->
