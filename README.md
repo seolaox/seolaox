@@ -21,7 +21,6 @@
 		<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white" />
 		<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
 		<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
-		<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=FLask&logoColor=white" />
 	<br>
 	<p>📚 Database 📚<p>
 		<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=Mysql&logoColor=white" />
@@ -37,6 +36,7 @@
 	<br>
 	<p> 📡 Server 📡 <p>
 		<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />	
+		<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=FLask&logoColor=white" />
 	<br>
 	<p> 🏢 Collaboration Tools 🏢<p>
 	  	<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
